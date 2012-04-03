@@ -1,0 +1,6 @@
+﻿Dane do pliku application.ini zamiast localhosta
+
+Baza danych: db1246613
+Nazwa użytkownika: db1246613
+hasło: QWer12!@
+host: mysql4.yoyo.pl
